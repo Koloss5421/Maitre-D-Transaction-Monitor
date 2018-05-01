@@ -12,6 +12,7 @@ Monitors TCP Packets sent from Maitre'D Terminals and writes the data to a log f
   two new config files. The terminals config, terminals.cfg, allows you to customize logfile names and IP address in which it should receive the data from. The Main
   configuration, 'maitredmon.cfg', allows you to configure the server's IP Address, Port, and the Log Save location. If either config does not exist or are configured 
   improperly the program will throw errors.
+  
 [-] Hardcoded configuration
 
 [-] Hardcoded ip addresses
